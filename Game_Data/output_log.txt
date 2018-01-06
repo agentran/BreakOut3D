@@ -1,0 +1,52 @@
+Mono path[0] = 'D:/Unity/BreakOut3D/Game_Data/Managed'
+Mono config path = 'D:/Unity/BreakOut3D/Game_Data/Mono/etc'
+PlayerConnection initialized from D:/Unity/BreakOut3D/Game_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55255
+Multi-casting "[IP] 10.0.0.2 [Port] 55255 [Flags] 2 [Guid] 3505737781 [EditorId] 3292380359 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-DMDOIFK) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55255]
+PlayerConnection already initialized - listening to [0.0.0.0:55255]
+Player data archive not found at `D:/Unity/BreakOut3D/Game_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3052 MB
+    Driver:   22.19.677.257
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\BreakOut3D\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity\BreakOut3D\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Unity\BreakOut3D\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.258 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'Outlined/Silhouetted Diffuse' - Pass 'OUTLINE' has no vertex shader
+UnloadTime: 0.973759 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2b30 -> priority: 1 
+  Thread -> id: 1f48 -> priority: 1 
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Allocator/ThreadsafeLinearAllocator.cpp Line: 371)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.503020 ms
+System memory in use before: 40.6 MB.
+System memory in use after: 40.5 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 914.
+Total: 0.653759 ms (FindLiveObjects: 0.041919 ms CreateObjectMapping: 0.029759 ms MarkObjects: 0.262399 ms  DeleteObjects: 0.318719 ms)
+
